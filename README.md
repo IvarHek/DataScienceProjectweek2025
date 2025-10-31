@@ -58,7 +58,7 @@ De belangrijkste leerpunten zijn:
 
 ## Conclusie
 De Challenge Week was een intensieve maar zeer leerzame ervaring.  
-We hebben in korte tijd veel geleerd over **machine learning, audiobewerking en modelontwikkeling**, maar ook over **effectieve samenwerking en reflectie**.  
+We hebben in korte tijd veel geleerd over **Neural Networks, audiobewerking en modelontwikkeling**, maar ook over **effectieve samenwerking en reflectie**.  
 Met een score van **82% accuraatheid op Kaggle** zijn we trots op wat we hebben bereikt.  
 
 We nemen onze nieuwe kennis en inzichten mee naar toekomstige projecten,  

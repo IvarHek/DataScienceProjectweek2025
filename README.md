@@ -63,3 +63,23 @@ Met een score van **82% accuraatheid op Kaggle** zijn we trots op wat we hebben 
 
 We nemen onze nieuwe kennis en inzichten mee naar toekomstige projecten,  
 waar we nog dieper willen duiken in **neuraal netwerken, visualisatie van leerprocessen** en het **automatiseren van modelanalyse**.
+
+
+---
+-DP
+Opslag plek voor Pickle bestanden.
+
+-essential_data
+Orginele data om mee te trainen van de Kaggle Challange.
+
+-supplemental_data
+Extra data van de Kaggle Challange om mee te trainen.
+
+-models
+De modellen van de beste resultaten
+
+-log
+Visualisatie van de model training history en visualisatie van de data prep.
+
+-BirdClassificationFinal
+Jupyternotebooks bestand waar alle python code uitgevoerd wordt.
